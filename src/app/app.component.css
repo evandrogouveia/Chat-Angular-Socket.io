@@ -1,0 +1,6 @@
+.msg-from-me {
+    background-color: rgb(160, 248, 204);
+}
+.chat-messages {
+    overflow: auto;
+}
